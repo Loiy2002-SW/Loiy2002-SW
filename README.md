@@ -11,6 +11,13 @@
 ### Languages and Tools: 
 
 <p align="center">
+<a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://icon.icepanel.io/Technology/svg/Visual-Studio.svg" alt="Visual Studio" width="40" height="40" />
+</a>
+<a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer">
+    <img src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg" alt="C#" width="40" height="40" />
+</a>
+
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" alt=".NET" width="40" height="40" />
   </a>
@@ -22,6 +29,13 @@
   </a>
   <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="javascript" width="40" height="40" />
+  </a>
+    </a>
+   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node.js" width="40" height="40" />
+  </a>
+    <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express.js" width="40" height="40" />
   </a>
   <a href="https://html.spec.whatwg.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML5" width="40" height="40" />
@@ -37,7 +51,7 @@
   </a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="postgreSQL" width="40" height="40" />
-  </a>
+
 </p>
 
 ### GitHub Stats:
