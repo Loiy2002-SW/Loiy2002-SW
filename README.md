@@ -6,7 +6,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Loiy2002-SW&label=Profile%20views&color=0e75b6&style=flat" alt="LOAI HASAN PROFILE VIEWS" /> </p>
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me: 
 
-- 🔭 I’m currently diving into **Low code/No code**
+- 🔭 I’m currently diving into **Low code/No code** development tools
 -  I’m currently buiding **reusable Appian plugins**
 -  Looking to collaborate on **open-source projects and innovative web solutions**
 - 💬 Ask me about **Bussiness flow automation**
