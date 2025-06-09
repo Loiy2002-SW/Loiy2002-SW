@@ -6,58 +6,14 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Loiy2002-SW&label=Profile%20views&color=0e75b6&style=flat" alt="LOAI HASAN PROFILE VIEWS" /> </p>
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me: 
 
-- 🔭 I’m currently diving into **Low code/No code** development tools
+-  I’m currently diving into **Low code/No code** development tools
 -  I’m currently buiding **reusable Appian plugins**
 -  Looking to collaborate on **open-source projects and innovative web solutions**
 - 💬 Ask me about **Bussiness flow automation**
 - 📫 How to reach me **loai-hasan@outlook.com**
 - ⚡ Fun fact: **I love solving complex problems and playing chess in my free time**
 
-### Languages and Tools: 
 
-<p align="center">
-<a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://icon.icepanel.io/Technology/svg/Visual-Studio.svg" alt="Visual Studio" width="40" height="40" />
-</a>
-<a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer">
-    <img src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg" alt="C#" width="40" height="40" />
-</a>
-
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" alt=".NET" width="40" height="40" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40" />
-  </a>
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="javascript" width="40" height="40" />
-  </a>
-    </a>
-   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node.js" width="40" height="40" />
-  </a>
-    <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express.js" width="40" height="40" />
-  </a>
-  <a href="https://html.spec.whatwg.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML5" width="40" height="40" />
-  </a>
-  <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS" width="40" height="40" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="40" height="40" />
-  </a>
-  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira" width="40" height="40" />
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="postgreSQL" width="40" height="40" />
-
-</p>
 
 ### GitHub Stats:
 
